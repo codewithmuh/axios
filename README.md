@@ -18,4 +18,6 @@ Using Axios with React is a very simple process. You need three things:
 2. To install Axios with npm/yarn
 3. An API endpoint for making requests
 
+```
 $ npm install axios
+```
